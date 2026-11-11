@@ -25,3 +25,9 @@ Distance: 6.5 km
 Calories burned: 390.0
 ```
 This program lets the user enter their workout type, duration, and distance. It then shows the workout information and calculates how many calories were burned.
+
+## Code Review
+
+- **Reviewed by:** Self-review since I was sick
+- **Status:** I reviewed the code by just running it and making sure it worked properly.
+
